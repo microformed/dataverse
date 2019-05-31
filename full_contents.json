@@ -1,0 +1,643 @@
+{
+    "data": [
+        {
+            "id": 12,
+            "title": "Ryerson University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 2,
+            "title": "Algoma University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 3,
+            "title": "Brock University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 4,
+            "title": "Carleton University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 5,
+            "title": "Lakehead University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 7,
+            "title": "McMaster University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 8,
+            "title": "Nipissing University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 9,
+            "title": "OCAD University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 10,
+            "title": "Queen's University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 11,
+            "title": "Royal Military College Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 13,
+            "title": "Trent University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 14,
+            "title": "University of Guelph Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 15,
+            "title": "UOIT Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 16,
+            "title": "University of Ottawa Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 17,
+            "title": "University of Waterloo Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 19,
+            "title": "Western University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 20,
+            "title": "Wilfrid Laurier University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 21,
+            "title": "York University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 22,
+            "title": "University of Toronto Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 64,
+            "title": "French testing Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 79,
+            "title": "New Test Dataverse CH Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 94,
+            "title": "University of Regina Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 107,
+            "title": "Kevin worthington Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 114,
+            "title": "Dan Jakubek Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 141,
+            "title": "Jason Brodeur Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 151,
+            "title": "joel Rivard Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 237,
+            "title": "Catie's Test Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 243,
+            "title": "Sandbox Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 265,
+            "title": "Jason Brodeur Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 6,
+            "title": "Laurentian University Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 18,
+            "title": "University of Windsor Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 270,
+            "title": "JQ's DataV",
+            "type": "dataverse"
+        },
+        {
+            "id": 277,
+            "title": "Graham Johnstone Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 278,
+            "title": "Tanya Daniel Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 281,
+            "title": "Liz Balint Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 339,
+            "title": "Meghan Goodchild Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 342,
+            "title": "Kaitlin Newson Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 357,
+            "title": "Brandon University",
+            "type": "dataverse"
+        },
+        {
+            "id": 382,
+            "title": "DVNWG-Metadata Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 446,
+            "title": "Test Deaccession Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 590,
+            "title": "Calum Center Test Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 551,
+            "title": "Archivematica Test Dataverse internal",
+            "type": "dataverse"
+        },
+        {
+            "id": 343,
+            "title": "University of British Columbia Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 91,
+            "title": "Define the Square Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1122,
+            "title": "McGill Dataverse Test",
+            "type": "dataverse"
+        },
+        {
+            "id": 1132,
+            "title": "Calum Center Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1213,
+            "title": "IPSOS UTORONTO TEST",
+            "type": "dataverse"
+        },
+        {
+            "id": 1131,
+            "title": "Meghan Goodchild Dataverse test1",
+            "type": "dataverse"
+        },
+        {
+            "id": 1469,
+            "title": "Thomas Aubert Dataverse restreint",
+            "type": "dataverse"
+        },
+        {
+            "id": 1471,
+            "title": "M\u00e9lissa test 3 Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1481,
+            "title": "Bernard Jobin Dataverse 2",
+            "type": "dataverse"
+        },
+        {
+            "id": 1424,
+            "title": "Scenario1 Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1508,
+            "title": "Lachlan MacLeod Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1283,
+            "title": "Alex Guindon Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1299,
+            "title": "Eve Paquette-Bigras Dataverse DEMODV",
+            "type": "dataverse"
+        },
+        {
+            "id": 1360,
+            "title": "Victoria Lubitch Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1318,
+            "title": "HEC Montreal root dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1383,
+            "title": "Dataverse de la journ\u00e9e des r\u00e9pondants qu\u00e9b\u00e9cois",
+            "type": "dataverse"
+        },
+        {
+            "id": 1384,
+            "title": "Dataverse de l'Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res",
+            "type": "dataverse"
+        },
+        {
+            "id": 1374,
+            "title": "Polytechnique Montr\u00e9al",
+            "type": "dataverse"
+        },
+        {
+            "id": 1376,
+            "title": "Test host dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1417,
+            "title": "Dataverse | Universit\u00e9 de Montr\u00e9al",
+            "type": "dataverse"
+        },
+        {
+            "id": 1421,
+            "title": "Danielle Dennie Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1423,
+            "title": "Dataverse de Danielle et cie",
+            "type": "dataverse"
+        },
+        {
+            "id": 1426,
+            "title": "Test M\u00e9lissa Marcil-B\u00e9dard ",
+            "type": "dataverse"
+        },
+        {
+            "id": 1427,
+            "title": "Bernard Jobin Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1422,
+            "title": "Janie  Gauthier-B. Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1449,
+            "title": "Test Dec, 2018",
+            "type": "dataverse"
+        },
+        {
+            "id": 1425,
+            "title": "Test Dataverse Thomas",
+            "type": "dataverse"
+        },
+        {
+            "id": 1465,
+            "title": "Natalie Waters mediated",
+            "type": "dataverse"
+        },
+        {
+            "id": 1468,
+            "title": "BCI Dataverse a acces restreint",
+            "type": "dataverse"
+        },
+        {
+            "id": 1531,
+            "title": "Meghan Goodchild Dataverse test test",
+            "type": "dataverse"
+        },
+        {
+            "id": 1570,
+            "title": "Memorial University",
+            "type": "dataverse"
+        },
+        {
+            "id": 1573,
+            "title": "Jordan Hale Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1629,
+            "title": "Amber Leahey Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1390,
+            "title": "Archivematica Test Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1635,
+            "title": "Marie-Helene Vezina [Usager1] Dataverse TEST1",
+            "type": "dataverse"
+        },
+        {
+            "id": 1642,
+            "title": "Sohaib Anwar Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1644,
+            "title": "Test CRIM Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1720,
+            "title": "AskPermissionToJoin Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1667,
+            "title": "Test Institutional Dataverse 1",
+            "type": "dataverse"
+        },
+        {
+            "id": 1702,
+            "title": "Voulevou",
+            "type": "dataverse"
+        },
+        {
+            "id": 1703,
+            "title": "University of Victoria Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1721,
+            "title": "Amber Leahey Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1729,
+            "title": "Amber Leahey Dataverse 2",
+            "type": "dataverse"
+        },
+        {
+            "id": 1657,
+            "title": "Universit\u00e9 de Sherbrooke Dataverse test",
+            "type": "dataverse"
+        },
+        {
+            "id": 1794,
+            "title": "Test Submission Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "id": 1896,
+            "title": "Grant Hurley Dataverse",
+            "type": "dataverse"
+        },
+        {
+            "authority": "10.5072",
+            "id": 24,
+            "identifier": "FK2/3U07X9",
+            "persistentUrl": "https://doi.org/10.5072/FK2/3U07X9",
+            "protocol": "doi",
+            "publicationDate": "2016-11-09",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/3U07X9",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 25,
+            "identifier": "FK2/DEF06J",
+            "persistentUrl": "https://doi.org/10.5072/FK2/DEF06J",
+            "protocol": "doi",
+            "publicationDate": "2016-11-09",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/DEF06J",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 26,
+            "identifier": "FK2/YTFPGF",
+            "persistentUrl": "https://doi.org/10.5072/FK2/YTFPGF",
+            "protocol": "doi",
+            "publicationDate": "2016-11-21",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/YTFPGF",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 54,
+            "identifier": "FK2/FZAH68",
+            "persistentUrl": "https://doi.org/10.5072/FK2/FZAH68",
+            "protocol": "doi",
+            "publicationDate": "2017-03-20",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/FZAH68",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 23,
+            "identifier": "FK2/72C3LQ",
+            "persistentUrl": "https://doi.org/10.5072/FK2/72C3LQ",
+            "protocol": "doi",
+            "publicationDate": "2016-11-09",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/72C3LQ",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 67,
+            "identifier": "FK2/3LEFRC",
+            "persistentUrl": "https://doi.org/10.5072/FK2/3LEFRC",
+            "protocol": "doi",
+            "publicationDate": "2017-06-14",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/3LEFRC",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 69,
+            "identifier": "FK2/XHF8LC",
+            "persistentUrl": "https://doi.org/10.5072/FK2/XHF8LC",
+            "protocol": "doi",
+            "publicationDate": "2017-06-22",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/XHF8LC",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 73,
+            "identifier": "FK2/KISEIS",
+            "persistentUrl": "https://doi.org/10.5072/FK2/KISEIS",
+            "protocol": "doi",
+            "publicationDate": "2017-06-22",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/KISEIS",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 77,
+            "identifier": "FK2/F5OUWQ",
+            "persistentUrl": "https://doi.org/10.5072/FK2/F5OUWQ",
+            "protocol": "doi",
+            "publicationDate": "2017-06-29",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/F5OUWQ",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 133,
+            "identifier": "FK2/AVEXL3",
+            "persistentUrl": "https://doi.org/10.5072/FK2/AVEXL3",
+            "protocol": "doi",
+            "publicationDate": "2017-08-15",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/AVEXL3",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 546,
+            "identifier": "FK2/O1LPVM",
+            "persistentUrl": "https://doi.org/10.5072/FK2/O1LPVM",
+            "protocol": "doi",
+            "publicationDate": "2018-04-27",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/O1LPVM",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 485,
+            "identifier": "FK2/NUG7RW",
+            "persistentUrl": "https://doi.org/10.5072/FK2/NUG7RW",
+            "protocol": "doi",
+            "publicationDate": "2018-04-24",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/NUG7RW",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 1351,
+            "identifier": "FK2/HYLHBO",
+            "persistentUrl": "https://doi.org/10.5072/FK2/HYLHBO",
+            "protocol": "doi",
+            "publicationDate": "2018-09-27",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/HYLHBO",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 1381,
+            "identifier": "FK2/4FEV7M",
+            "persistentUrl": "https://doi.org/10.5072/FK2/4FEV7M",
+            "protocol": "doi",
+            "publicationDate": "2018-11-16",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/4FEV7M",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 1616,
+            "identifier": "FK2/OZC5OD",
+            "persistentUrl": "https://doi.org/10.5072/FK2/OZC5OD",
+            "protocol": "doi",
+            "publicationDate": "2019-01-25",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/OZC5OD",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 1718,
+            "identifier": "FK2/2GF10P",
+            "persistentUrl": "https://doi.org/10.5072/FK2/2GF10P",
+            "protocol": "doi",
+            "publicationDate": "2019-02-08",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/2GF10P",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 1789,
+            "identifier": "FK2/D7TSLH",
+            "persistentUrl": "https://doi.org/10.5072/FK2/D7TSLH",
+            "protocol": "doi",
+            "publicationDate": "2019-02-28",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/D7TSLH",
+            "type": "dataset"
+        },
+        {
+            "authority": "10.5072",
+            "id": 2017,
+            "identifier": "FK2/XK84KS",
+            "persistentUrl": "https://doi.org/10.5072/FK2/XK84KS",
+            "protocol": "doi",
+            "publicationDate": "2019-03-19",
+            "publisher": "Scholars Portal Dataverse",
+            "storageIdentifier": "file://10.5072/FK2/XK84KS",
+            "type": "dataset"
+        }
+    ],
+    "status": "OK"
+}
